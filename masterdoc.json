@@ -4,12 +4,12 @@
     "Language": "English",
     "Files": [
       {
-        "RawFilePath": "https://raw.githubusercontent.com/smseerat/AIW-Azure-Well-Architected-Framework/main/00-GettingStarted.md",
+        "RawFilePath": "https://raw.githubusercontent.com/smseerat/lci-rockylinux/main/00-GettingStarted.md",
         "Order": 1
 
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/smseerat/AIW-Azure-Well-Architected-Framework/main/01.md",
+        "RawFilePath": "https://raw.githubusercontent.com/smseerat/lci-rockylinux/main/01.md",
         "Order": 2
 
       }
